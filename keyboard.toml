@@ -12,10 +12,16 @@ cols = 6
 layers = 1 
 keymap = [
     [
-        ["A", "B", "C"],
-        ["Kc1", "Kc2", "Kc3"],
-        ["LCtrl", "MO(1)", "LShift"],
-        ["OSL(1)", "LT(2, Kc9)", "LM(1, LShift | LGui)"]
+        ["Escape", "Kc1", "Kc2", "Kc3", "Kc4", "Kc5"],
+        ["Tab", "Q", "W", "E", "R", "T"],
+        ["LCtrl", "A", "S", "D", "F", "G"],
+        ["LShift", "Z", "X", "C", "V", "B"],
+        ["_", "_", "MO(1)", "MO(2)", "Space", "LAlt"]
+        ["Kc6", "Kc7", "Kc8", "Kc9", "Kc0", "Backslash"],
+        ["Tab", "Q", "W", "E", "R", "T"],
+        ["LCtrl", "A", "S", "D", "F", "G"],
+        ["LShift", "Z", "X", "C", "V", "B"],
+        ["_", "_", "MO(1)", "MO(2)", "Space", "LAlt"]
     ]
 ]
 
