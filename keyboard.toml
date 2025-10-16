@@ -16,7 +16,7 @@ keymap = [
         ["Tab", "Q", "W", "E", "R", "T"],
         ["LCtrl", "A", "S", "D", "F", "G"],
         ["LShift", "Z", "X", "C", "V", "B"],
-        ["_", "_", "MO(1)", "MO(2)", "Space", "LAlt"]
+        ["_", "_", "MO(1)", "MO(2)", "Space", "LAlt"],
         ["Kc6", "Kc7", "Kc8", "Kc9", "Kc0", "Backslash"],
         ["Tab", "Q", "W", "E", "R", "T"],
         ["LCtrl", "A", "S", "D", "F", "G"],
