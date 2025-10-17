@@ -4,7 +4,7 @@ product_name = "stingy"
 vendor_id = 0x4c4b
 product_id = 0x4643
 manufacturer = "rmk"
-board = "nice!nano_v2"
+board = "nrf52840"
 
 [layout]
 rows = 10
