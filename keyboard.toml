@@ -54,5 +54,5 @@ ble_addr = [0x18, 0xe2, 0x21, 0x80, 0xc0, 0xc7]
 
 
 [split.peripheral.matrix]
-input_pins = ["P0_17", "P0_20", "P0_22", "P0_24", "P1_00", "P0_11"]
+input_pins = ["P1_11", "P0_10", "P1_13", "P0_09", "P1_06"]
 output_pins = ["P0_17", "P0_20", "P0_22", "P0_24", "P1_00", "P0_11"]
